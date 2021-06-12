@@ -1,0 +1,7 @@
+D:\C#\cursov\lab9\bin\Debug\lab9.exe.config
+D:\C#\cursov\lab9\bin\Debug\lab9.exe
+D:\C#\cursov\lab9\bin\Debug\lab9.pdb
+D:\C#\cursov\lab9\obj\Debug\1_Library.csprojAssemblyReference.cache
+D:\C#\cursov\lab9\obj\Debug\1_Library.csproj.CoreCompileInputs.cache
+D:\C#\cursov\lab9\obj\Debug\lab9.exe
+D:\C#\cursov\lab9\obj\Debug\lab9.pdb

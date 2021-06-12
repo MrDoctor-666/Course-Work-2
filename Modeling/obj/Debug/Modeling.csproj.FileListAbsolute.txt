@@ -1,0 +1,10 @@
+D:\C#\cursov\Modeling\obj\Debug\Modeling.csprojAssemblyReference.cache
+D:\C#\cursov\Modeling\obj\Debug\Modeling.Form1.resources
+D:\C#\cursov\Modeling\obj\Debug\Modeling.Properties.Resources.resources
+D:\C#\cursov\Modeling\obj\Debug\Modeling.csproj.GenerateResource.cache
+D:\C#\cursov\Modeling\obj\Debug\Modeling.csproj.CoreCompileInputs.cache
+D:\C#\cursov\Modeling\bin\Debug\Modeling.exe.config
+D:\C#\cursov\Modeling\bin\Debug\Modeling.exe
+D:\C#\cursov\Modeling\bin\Debug\Modeling.pdb
+D:\C#\cursov\Modeling\obj\Debug\Modeling.exe
+D:\C#\cursov\Modeling\obj\Debug\Modeling.pdb

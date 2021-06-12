@@ -1,0 +1,751 @@
+Starting to work...
+All details: 4
+Details of type A : 0
+Details of type B : 3
+Details of type C : 1
+Machine 1
+    Queue: 
+Machine 2
+    Queue: 
+Machine 3
+    Queue: 
+Ready details: 4
+75% of type B
+25% of type C
+0% of type A
+---------------------------
+Starting to work...
+All details: 5
+Details of type A : 1
+Details of type B : 3
+Details of type C : 1
+Machine 1
+    Queue: 
+Machine 2
+    Queue: 
+Machine 3
+    Queue: 
+Ready details: 5
+20% of type A
+60% of type B
+20% of type C
+---------------------------
+Starting to work...
+All details: 5
+Details of type A : 1
+Details of type B : 3
+Details of type C : 1
+Machine 1
+    Queue: 
+Machine 2
+    Queue: 
+Machine 3
+    Queue: 
+Ready details: 5
+20% of type A
+60% of type B
+20% of type C
+---------------------------
+Starting to work...
+All details: 1
+Details of type A : 0
+Details of type B : 0
+Details of type C : 1
+Machine 1
+    Queue: 
+Machine 2
+    Queue: 
+Machine 3
+    Queue: 
+Ready details: 1
+100% of type C
+0% of type A
+0% of type A
+---------------------------
+Starting to work...
+All details: 10
+Details of type A : 5
+Details of type B : 4
+Details of type C : 1
+Machine 1
+    Queue: A A B B B 
+Machine 2
+    Queue: B 
+Machine 3
+    Queue: 
+Ready details: 4
+75% of type A
+25% of type C
+0% of type A
+---------------------------
+Starting to work...
+All details: 10
+Details of type A : 5
+Details of type B : 4
+Details of type C : 1
+Machine 1
+    Queue: A A B B B 
+Machine 2
+    Queue: B 
+Machine 3
+    Queue: 
+Ready details: 4
+75% of type A
+25% of type C
+0% of type A
+---------------------------
+Starting to work...
+All details: 7
+Details of type A : 1
+Details of type B : 3
+Details of type C : 3
+Machine 1
+    Queue: B C B C 
+Machine 2
+    Queue: B C 
+Machine 3
+    Queue: 
+Ready details: 1
+100% of type A
+0% of type A
+0% of type A
+---------------------------
+Starting to work...
+All details: 15
+Details of type A : 6
+Details of type B : 5
+Details of type C : 4
+Machine 1
+    Queue: B C A A A A A 
+Machine 2
+    Queue: B B C B 
+Machine 3
+    Queue: 
+Ready details: 4
+25% of type A
+25% of type B
+50% of type C
+---------------------------
+Starting to work...
+All details: 1
+Details of type A : 0
+Details of type B : 0
+Details of type C : 1
+Machine 1
+    Queue: 
+Machine 2
+    Queue: 
+Machine 3
+    Queue: 
+Ready details: 1
+100% of type C
+0% of type A
+0% of type A
+---------------------------
+Starting to work...
+All details: 5
+Details of type A : 0
+Details of type B : 4
+Details of type C : 1
+Machine 1
+    Queue: 
+Machine 2
+    Queue: 
+Machine 3
+    Queue: 
+Ready details: 5
+80% of type B
+20% of type C
+0% of type A
+---------------------------
+Starting to work...
+All details: 13
+Details of type A : 4
+Details of type B : 6
+Details of type C : 3
+Machine 1
+    Queue: A C B B 
+Machine 2
+    Queue: C 
+Machine 3
+    Queue: 
+Ready details: 8
+37,5% of type A
+50% of type B
+12,5% of type C
+---------------------------
+Starting to work...
+All details: 14
+Details of type A : 5
+Details of type B : 6
+Details of type C : 3
+Machine 1
+    Queue: 
+Machine 2
+    Queue: 
+Machine 3
+    Queue: 
+Ready details: 14
+35,71429% of type A
+42,85714% of type B
+21,42857% of type C
+---------------------------
+Starting to work...
+All details: 19
+Details of type A : 7
+Details of type B : 8
+Details of type C : 4
+Machine 1
+    Queue: 
+Machine 2
+    Queue: 
+Machine 3
+    Queue: 
+Ready details: 19
+36,84211% of type A
+42,10526% of type B
+21,05263% of type C
+---------------------------
+Starting to work...
+All details: 19
+Details of type A : 7
+Details of type B : 8
+Details of type C : 4
+Machine 1
+    Queue: 
+Machine 2
+    Queue: 
+Machine 3
+    Queue: 
+Ready details: 19
+36,84211% of type A
+42,10526% of type B
+21,05263% of type C
+---------------------------
+Starting to work...
+All details: 5
+Details of type A : 0
+Details of type B : 3
+Details of type C : 2
+Machine 1
+    Queue: C C 
+Machine 2
+    Queue: B B 
+Machine 3
+    Queue: 
+Ready details: 1
+100% of type B
+0% of type A
+0% of type A
+---------------------------
+Starting to work...
+All details: 11
+Details of type A : 1
+Details of type B : 5
+Details of type C : 5
+Machine 1
+    Queue: A C C 
+Machine 2
+    Queue: C B B 
+Machine 3
+    Queue: 
+Ready details: 5
+60% of type B
+40% of type C
+0% of type A
+---------------------------
+Starting to work...
+All details: 13
+Details of type A : 2
+Details of type B : 6
+Details of type C : 5
+Machine 1
+    Queue: 
+Machine 2
+    Queue: 
+Machine 3
+    Queue: 
+Ready details: 13
+15,38461% of type A
+46,15385% of type B
+38,46154% of type C
+---------------------------
+Starting to work...
+All details: 20
+Details of type A : 4
+Details of type B : 9
+Details of type C : 7
+Machine 1
+    Queue: A B B C 
+Machine 2
+    Queue: C B 
+Machine 3
+    Queue: 
+Ready details: 14
+21,42857% of type A
+42,85714% of type B
+35,71429% of type C
+---------------------------
+Starting to work...
+All details: 23
+Details of type A : 5
+Details of type B : 10
+Details of type C : 8
+Machine 1
+    Queue: C B 
+Machine 2
+    Queue: 
+Machine 3
+    Queue: 
+Ready details: 21
+23,80952% of type A
+42,85714% of type B
+33,33333% of type C
+---------------------------
+Starting to work...
+All details: 32
+Details of type A : 8
+Details of type B : 15
+Details of type C : 9
+Machine 1
+    Queue: A A B A B C B 
+Machine 2
+    Queue: B B 
+Machine 3
+    Queue: 
+Ready details: 23
+21,73913% of type A
+43,47826% of type B
+34,78261% of type C
+---------------------------
+Starting to work...
+All details: 39
+Details of type A : 10
+Details of type B : 16
+Details of type C : 13
+Machine 1
+    Queue: A B C B A A B B 
+Machine 2
+    Queue: C C B C C B 
+Machine 3
+    Queue: 
+Ready details: 25
+28% of type A
+40% of type B
+32% of type C
+---------------------------
+Starting to work...
+All details: 44
+Details of type A : 12
+Details of type B : 18
+Details of type C : 14
+Machine 1
+    Queue: B A A B B A A C C B 
+Machine 2
+    Queue: C C B B C B 
+Machine 3
+    Queue: 
+Ready details: 28
+28,57143% of type A
+39,28571% of type B
+32,14286% of type C
+---------------------------
+Starting to work...
+All details: 50
+Details of type A : 16
+Details of type B : 19
+Details of type C : 15
+Machine 1
+    Queue: A B B A A C C B A A A A C C 
+Machine 2
+    Queue: B C B C B 
+Machine 3
+    Queue: 
+Ready details: 31
+29,03226% of type A
+41,93548% of type B
+29,03226% of type C
+---------------------------
+Starting to work...
+All details: 56
+Details of type A : 16
+Details of type B : 22
+Details of type C : 18
+Machine 1
+    Queue: A A C C B A A A A C C B C 
+Machine 2
+    Queue: B C B C C B B C B 
+Machine 3
+    Queue: 
+Ready details: 34
+29,41176% of type A
+44,11765% of type B
+26,47059% of type C
+---------------------------
+Starting to work...
+All details: 4
+Details of type A : 3
+Details of type B : 1
+Details of type C : 0
+Machine 1
+    Queue: B 
+Machine 2
+    Queue: 
+Machine 3
+    Queue: 
+Ready details: 3
+100% of type A
+0% of type A
+0% of type A
+---------------------------
+Starting to work...
+All details: 6
+Details of type A : 4
+Details of type B : 1
+Details of type C : 1
+Machine 1
+    Queue: C 
+Machine 2
+    Queue: 
+Machine 3
+    Queue: 
+Ready details: 5
+80% of type A
+20% of type B
+0% of type A
+---------------------------
+Starting to work...
+All details: 10
+Details of type A : 5
+Details of type B : 2
+Details of type C : 3
+Machine 1
+    Queue: A C B 
+Machine 2
+    Queue: 
+Machine 3
+    Queue: 
+Ready details: 7
+57,14286% of type A
+14,28571% of type B
+28,57143% of type C
+---------------------------
+Starting to work...
+All details: 11
+Details of type A : 5
+Details of type B : 3
+Details of type C : 3
+Machine 1
+    Queue: 
+Machine 2
+    Queue: 
+Machine 3
+    Queue: 
+Ready details: 11
+45,45454% of type A
+27,27273% of type B
+27,27273% of type C
+---------------------------
+Starting to work...
+All details: 13
+Details of type A : 5
+Details of type B : 5
+Details of type C : 3
+Machine 1
+    Queue: 
+Machine 2
+    Queue: 
+Machine 3
+    Queue: 
+Ready details: 13
+38,46154% of type A
+38,46154% of type B
+23,07692% of type C
+---------------------------
+Starting to work...
+All details: 17
+Details of type A : 8
+Details of type B : 5
+Details of type C : 4
+Machine 1
+    Queue: C 
+Machine 2
+    Queue: 
+Machine 3
+    Queue: 
+Ready details: 16
+50% of type A
+31,25% of type B
+18,75% of type C
+---------------------------
+Starting to work...
+All details: 18
+Details of type A : 9
+Details of type B : 5
+Details of type C : 4
+Machine 1
+    Queue: 
+Machine 2
+    Queue: 
+Machine 3
+    Queue: 
+Ready details: 18
+50% of type A
+27,77778% of type B
+22,22222% of type C
+---------------------------
+Starting to work...
+All details: 19
+Details of type A : 9
+Details of type B : 6
+Details of type C : 4
+Machine 1
+    Queue: 
+Machine 2
+    Queue: 
+Machine 3
+    Queue: 
+Ready details: 19
+47,36842% of type A
+31,57895% of type B
+21,05263% of type C
+---------------------------
+Starting to work...
+All details: 20
+Details of type A : 9
+Details of type B : 6
+Details of type C : 5
+Machine 1
+    Queue: 
+Machine 2
+    Queue: 
+Machine 3
+    Queue: 
+Ready details: 20
+45% of type A
+30% of type B
+25% of type C
+---------------------------
+Starting to work...
+All details: 21
+Details of type A : 9
+Details of type B : 7
+Details of type C : 5
+Machine 1
+    Queue: 
+Machine 2
+    Queue: 
+Machine 3
+    Queue: 
+Ready details: 21
+42,85714% of type A
+33,33333% of type B
+23,80952% of type C
+---------------------------
+Starting to work...
+All details: 23
+Details of type A : 10
+Details of type B : 7
+Details of type C : 6
+Machine 1
+    Queue: 
+Machine 2
+    Queue: 
+Machine 3
+    Queue: 
+Ready details: 23
+43,47826% of type A
+30,43478% of type B
+26,08696% of type C
+---------------------------
+Starting to work...
+All details: 27
+Details of type A : 11
+Details of type B : 9
+Details of type C : 7
+Machine 1
+    Queue: B B 
+Machine 2
+    Queue: C 
+Machine 3
+    Queue: 
+Ready details: 24
+45,83333% of type A
+29,16667% of type B
+25% of type C
+---------------------------
+Starting to work...
+All details: 31
+Details of type A : 12
+Details of type B : 11
+Details of type C : 8
+Machine 1
+    Queue: A B B 
+Machine 2
+    Queue: C 
+Machine 3
+    Queue: 
+Ready details: 27
+40,74074% of type A
+33,33333% of type B
+25,92593% of type C
+---------------------------
+Starting to work...
+All details: 35
+Details of type A : 12
+Details of type B : 14
+Details of type C : 9
+Machine 1
+    Queue: B C B 
+Machine 2
+    Queue: B B 
+Machine 3
+    Queue: 
+Ready details: 30
+40% of type A
+33,33333% of type B
+26,66667% of type C
+---------------------------
+Starting to work...
+All details: 39
+Details of type A : 14
+Details of type B : 15
+Details of type C : 10
+Machine 1
+    Queue: B C A A B B 
+Machine 2
+    Queue: B C 
+Machine 3
+    Queue: 
+Ready details: 31
+38,70968% of type A
+35,48387% of type B
+25,80645% of type C
+---------------------------
+Starting to work...
+All details: 40
+Details of type A : 15
+Details of type B : 15
+Details of type C : 10
+Machine 1
+    Queue: A B 
+Machine 2
+    Queue: 
+Machine 3
+    Queue: 
+Ready details: 38
+36,84211% of type A
+36,84211% of type B
+26,31579% of type C
+---------------------------
+Starting to work...
+All details: 40
+Details of type A : 15
+Details of type B : 15
+Details of type C : 10
+Machine 1
+    Queue: A B 
+Machine 2
+    Queue: 
+Machine 3
+    Queue: 
+Ready details: 38
+36,84211% of type A
+36,84211% of type B
+26,31579% of type C
+---------------------------
+Starting to work...
+All details: 3
+Details of type A : 1
+Details of type B : 1
+Details of type C : 1
+Machine 1
+    Queue: C 
+Machine 2
+    Queue: 
+Machine 3
+    Queue: 
+Ready details: 2
+50% of type A
+50% of type B
+0% of type A
+---------------------------
+Starting to work...
+All details: 6
+Details of type A : 2
+Details of type B : 2
+Details of type C : 2
+Machine 1
+    Queue: C 
+Machine 2
+    Queue: 
+Machine 3
+    Queue: 
+Ready details: 5
+40% of type A
+40% of type B
+20% of type C
+---------------------------
+Starting to work...
+All details: 6
+Details of type A : 2
+Details of type B : 2
+Details of type C : 2
+Machine 1
+    Queue: C 
+Machine 2
+    Queue: 
+Machine 3
+    Queue: 
+Ready details: 5
+40% of type A
+40% of type B
+20% of type C
+---------------------------
+***********************
+Starting to work...
+All details: 1
+Details of type A : 0
+Details of type B : 0
+Details of type C : 1
+Machine 1
+    Queue: 
+Machine 2
+    Queue: 
+Machine 3
+    Queue: 
+Ready details: 1
+100% of type C
+0% of type A
+0% of type A
+---------------------------
+All details: 3
+Details of type A : 0
+Details of type B : 2
+Details of type C : 1
+Machine 1
+    Queue: 
+Machine 2
+    Queue: 
+Machine 3
+    Queue: 
+Ready details: 3
+66,66666% of type B
+33,33333% of type C
+0% of type A
+---------------------------
+All details: 3
+Details of type A : 0
+Details of type B : 2
+Details of type C : 1
+Machine 1
+    Queue: 
+Machine 2
+    Queue: 
+Machine 3
+    Queue: 
+Ready details: 3
+66,66666% of type B
+33,33333% of type C
+0% of type A
+---------------------------

@@ -1,0 +1,7 @@
+D:\C#\cursov\Graphs\bin\Debug\Graphs.exe.config
+D:\C#\cursov\Graphs\bin\Debug\Graphs.exe
+D:\C#\cursov\Graphs\bin\Debug\Graphs.pdb
+D:\C#\cursov\Graphs\obj\Debug\Graphs.csprojAssemblyReference.cache
+D:\C#\cursov\Graphs\obj\Debug\Graphs.csproj.CoreCompileInputs.cache
+D:\C#\cursov\Graphs\obj\Debug\Graphs.exe
+D:\C#\cursov\Graphs\obj\Debug\Graphs.pdb
